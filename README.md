@@ -1,5 +1,13 @@
-This is my Repo for saving my new journey solving LeetCode problems.
+# Leet Code
 
-Easy: 
-1- Two Sum
-2- PalindromeNumber
+This is my Repo for saving my journey solving LeetCode problems.
+
+## Easy:
+
+* [Two Sum](https://leetcode.com/problems/two-sum/)
+* [PalindromeNumber](https://leetcode.com/problems/palindrome-number/)
+* [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)
+
+## Medium:
+
+## Hard:
