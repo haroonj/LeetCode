@@ -1,7 +1,7 @@
 package Easy;
 
 import java.util.Arrays;
-
+//https://leetcode.com/problems/two-sum/
 public class TwoSum {
     public static void main(String[] args) {
         Solution solution = new Solution();
