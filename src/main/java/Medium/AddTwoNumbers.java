@@ -7,9 +7,7 @@ public class AddTwoNumbers {
     public static void main(String[] args) {
         Solution solution = new Solution();
 
-        ListNode l0 = new ListNode(4);
-        ListNode l1 = new ListNode(6);
-        ListNode l2 = new ListNode(5);
+        ListNode l0 = new ListNode(9);
 
         ListNode l10 = new ListNode(9);
         ListNode l11 = new ListNode(9, l10);
