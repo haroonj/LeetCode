@@ -4,14 +4,14 @@
 
 ## Easy:
 
-* [Two Sum](https://leetcode.com/problems/two-sum/)
-* [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-* [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)
-* [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-* [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+* [Two Sum](src/main/java/Easy/TwoSum.java)
+* [Palindrome Number](src/main/java/Easy/PalindromeNumber.java)
+* [Roman To Integer](src/main/java/Easy/RomanToInteger.java)
+* [Valid Parentheses](src/main/java/Easy/ValidParentheses.java)
+* [Merge Two Sorted Lists](src/main/java/Easy/MergeTwoSortedLists.java)
 
 ## Medium:
 
-* [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+* [Add Two Numbers](src/main/java/Medium/AddTwoNumbers.java)
 
 ## Hard:
