@@ -15,16 +15,11 @@ public class ValidParentheses {
             LinkedList<Character> linkedList = new LinkedList<>();
             for (int i = 0; i < s.length(); i++) {
                 char ch = s.charAt(i);
-                if (ch == '(' || ch == '{' || ch == '[')
-                    linkedList.addLast(ch);
-                else if (ch == ')' && !linkedList.isEmpty() && linkedList.getLast() == '(')
-                    linkedList.removeLast();
-                else if (ch == '}' && !linkedList.isEmpty() && linkedList.getLast() == '{')
-                    linkedList.removeLast();
-                else if (ch == ']' && !linkedList.isEmpty() && linkedList.getLast() == '[')
-                    linkedList.removeLast();
-                else
-                    return false;
+                if (ch == '(' || ch == '{' || ch == '[') linkedList.addLast(ch);
+                else if (ch == ')' && !linkedList.isEmpty() && linkedList.getLast() == '(') linkedList.removeLast();
+                else if (ch == '}' && !linkedList.isEmpty() && linkedList.getLast() == '{') linkedList.removeLast();
+                else if (ch == ']' && !linkedList.isEmpty() && linkedList.getLast() == '[') linkedList.removeLast();
+                else return false;
             }
             return linkedList.isEmpty();
         }
