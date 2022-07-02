@@ -7,6 +7,7 @@
 * [Two Sum](https://leetcode.com/problems/two-sum/)
 * [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 * [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)
+* [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Medium:
 
