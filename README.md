@@ -14,5 +14,6 @@
 ## Medium:
 
 * [Add Two Numbers](src/main/java/Medium/AddTwoNumbers.java)
+* [3Sum]()
 
 ## Hard:
