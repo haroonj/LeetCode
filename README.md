@@ -9,7 +9,7 @@
 * [Roman To Integer](src/main/java/Easy/RomanToInteger.java)
 * [Valid Parentheses](src/main/java/Easy/ValidParentheses.java)
 * [Merge Two Sorted Lists](src/main/java/Easy/MergeTwoSortedLists.java)
-* [Implement strStr()](src/main/java/Easy/ImplementStrStr.java)
+* [Implement strStr ()](src/main/java/Easy/ImplementStrStr.java)
 
 ## Medium:
 
