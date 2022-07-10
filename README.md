@@ -10,6 +10,7 @@
 * [Valid Parentheses](src/main/java/Easy/ValidParentheses.java)
 * [Merge Two Sorted Lists](src/main/java/Easy/MergeTwoSortedLists.java)
 * [Implement strStr ()](src/main/java/Easy/ImplementStrStr.java)
+* [Remove Duplicates from Sorted Array](src/main/java/Easy/RemoveDuplicatesFromSortedArray.java)
 
 ## Medium:
 
