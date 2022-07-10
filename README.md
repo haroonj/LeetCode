@@ -18,6 +18,8 @@
 * [Add Two Numbers](src/main/java/Medium/AddTwoNumbers.java)
 * [3Sum](src/main/java/Medium/ThreeSum.java)
 * [Reverse Integer](src/main/java/Medium/ReverseInteger.java)
+* [Coin Change](src/main/java/Medium/CoinChange.java)
 
 ## Hard
+
 * [Median of Two Sorted Arrays](src/main/java/Hard/MedianOfTwoSortedArrays.java)
