@@ -11,6 +11,7 @@
 * [Merge Two Sorted Lists](src/main/java/Easy/MergeTwoSortedLists.java)
 * [Implement strStr ()](src/main/java/Easy/ImplementStrStr.java)
 * [Remove Duplicates from Sorted Array](src/main/java/Easy/RemoveDuplicatesFromSortedArray.java)
+* [Search Insert Position](src/main/java/Easy/SearchInsertPosition.java)
 
 ## Medium:
 
