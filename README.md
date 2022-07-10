@@ -20,3 +20,4 @@
 * [Reverse Integer](src/main/java/Medium/ReverseInteger.java)
 
 ## Hard
+* [Median of Two Sorted Arrays](src/main/java/Hard/MedianOfTwoSortedArrays.java)
