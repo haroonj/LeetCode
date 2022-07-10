@@ -12,13 +12,24 @@ public class MedianOfTwoSortedArrays {
             int m1 = 0, index1 = 0, index2 = 0;
             boolean odd = (nums1.length + nums2.length) % 2 != 0;
             int divPoint = odd ? (nums1.length + nums2.length) / 2 + 1 : (nums1.length + nums2.length) / 2;
+            if (nums1.length == 0) {
+                if (odd) return nums2[nums2.length / 2];
+                else return (double) (nums2[nums2.length / 2] + nums2[nums2.length / 2 - 1]) / 2;
+            }
+            if (nums2.length == 0) {
+                if (odd) return nums1[nums1.length / 2];
+                else return (double) (nums1[nums1.length / 2] + nums1[nums1.length / 2 - 1]) / 2;
+            }
 
             for (int i = 0; i < divPoint; i++) {
-                if (nums1[index1] < nums2[index2]) {
-                    m1 = nums1[index1];
+                int temp1 = index1 < nums1.length ? nums1[index1] : 1000001;
+                int temp2 = index2 < nums2.length ? nums2[index2] : 1000001;
+
+                if (temp1 < temp2) {
+                    m1 = temp1;
                     index1++;
-                } else if (nums1[index1] >= nums2[index2]) {
-                    m1 = nums2[index2];
+                } else {
+                    m1 = temp2;
                     index2++;
                 }
             }
@@ -34,9 +45,3 @@ public class MedianOfTwoSortedArrays {
         }
     }
 }
-//                    if (!odd && i + 1 == divPoint) {
-//                            if (index1 != nums1.length)
-//                            m2 = nums1[index1];
-//                            else
-//                            m2 = nums2[index2];
-//                            }
