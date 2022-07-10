@@ -33,6 +33,7 @@ public class MedianOfTwoSortedArrays {
                     index2++;
                 }
             }
+
             if (!odd) {
                 int m2;
                 int t1 = 1000001, t2 = 1000001;
