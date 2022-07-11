@@ -25,4 +25,4 @@
 * [Remove Duplicates from Sorted Array](src/main/java/Easy/RemoveDuplicatesFromSortedArray.java)
 * [Search Insert Position](src/main/java/Easy/SearchInsertPosition.java)
 * [Remove Element](src/main/java/Easy/RemoveElement.java)
-* [Running Sum of 1d Array]()
+* [Running Sum of 1d Array](src/main/java/Easy/RunningSumOf1DArray.java)
