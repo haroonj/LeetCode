@@ -26,3 +26,4 @@
 * [Search Insert Position](src/main/java/Easy/SearchInsertPosition.java)
 * [Remove Element](src/main/java/Easy/RemoveElement.java)
 * [Running Sum of 1d Array](src/main/java/Easy/RunningSumOf1DArray.java)
+* [Find Pivot Index](src/main/java/Easy/FindPivotIndex.java)
