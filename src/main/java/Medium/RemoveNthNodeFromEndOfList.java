@@ -14,23 +14,30 @@ public class RemoveNthNodeFromEndOfList {
 
     static class Solution {
         public ListNode removeNthFromEnd(ListNode head, int n) {
-            ListNode temp = head;
-            int count = 0;
-            while (temp != null) {
-                temp = temp.next;
-                count++;
+            ListNode dummy = new ListNode(0);
+            dummy.next = head;
+
+            ListNode fast = dummy;
+            ListNode slow = dummy;
+
+            for (int i = 0; i <= n; i++) {
+                fast = fast.next;
             }
-            System.out.println(count);
-            return head;
+
+            while (fast != null) {
+                slow = slow.next;
+                fast = fast.next;
+            }
+
+            slow.next = slow.next.next;
+
+            return dummy.next;
         }
     }
 
     static class ListNode {
         int val;
         ListNode next;
-
-        ListNode() {
-        }
 
         ListNode(int val) {
             this.val = val;
@@ -39,6 +46,11 @@ public class RemoveNthNodeFromEndOfList {
         ListNode(int val, ListNode next) {
             this.val = val;
             this.next = next;
+        }
+
+        @Override
+        public String toString() {
+            return "ListNode{" + "val=" + val + ", next=" + next + '}';
         }
     }
 }
