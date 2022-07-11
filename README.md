@@ -12,6 +12,7 @@
 * [3Sum](src/main/java/Medium/ThreeSum.java)
 * [Reverse Integer](src/main/java/Medium/ReverseInteger.java)
 * [Coin Change](src/main/java/Medium/CoinChange.java)
+* [Remove Nth Node From End of List](src/main/java/Medium/RemoveNthNodeFromEndOfList.java)
 
 ## Easy
 
