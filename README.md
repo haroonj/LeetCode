@@ -28,3 +28,4 @@
 * [Running Sum of 1d Array](src/main/java/Easy/RunningSumOf1DArray.java)
 * [Find Pivot Index](src/main/java/Easy/FindPivotIndex.java)
 * [Isomorphic Strings](src/main/java/Easy/IsomorphicStrings.java)
+* [Is Subsequence](src/main/java/Easy/IsSubsequence.java)
