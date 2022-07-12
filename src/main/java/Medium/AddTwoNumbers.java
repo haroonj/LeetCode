@@ -1,6 +1,8 @@
 package Medium;
 
 
+import util.ListNode;
+
 //https://leetcode.com/problems/add-two-numbers/
 public class AddTwoNumbers {
     public static void main(String[] args) {
@@ -41,24 +43,6 @@ public class AddTwoNumbers {
         }
     }
 
-    static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int val) {
-            this.val = val;
-        }
-
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
-
-        @Override
-        public String toString() {
-            return "ListNode{" + "val=" + val + ", next=" + next + '}';
-        }
-    }
 
 }
 

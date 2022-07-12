@@ -1,6 +1,8 @@
 package Easy;
 
 
+import util.ListNode;
+
 //https://leetcode.com/problems/merge-two-sorted-lists/
 public class MergeTwoSortedLists {
     public static void main(String[] args) {
@@ -15,7 +17,6 @@ public class MergeTwoSortedLists {
         ListNode l12 = new ListNode(1, l11);
         System.out.println(solution.mergeTwoLists(l2, l12));
     }
-
 
     static class Solution {
         public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
@@ -35,27 +36,6 @@ public class MergeTwoSortedLists {
             }
 
             return mergedList.next;
-        }
-    }
-
-
-    static class ListNode {
-        int val;
-        ListNode next;
-
-
-        ListNode(int val) {
-            this.val = val;
-        }
-
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
-
-        @Override
-        public String toString() {
-            return "ListNode{" + "val=" + val + ", next=" + next + '}';
         }
     }
 }
