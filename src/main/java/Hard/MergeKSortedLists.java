@@ -12,7 +12,9 @@ public class MergeKSortedLists {
 
     static class Solution {
         public ListNode mergeKLists(ListNode[] lists) {
-            return null;
+            ListNode mergedList = new ListNode(0);
+
+            return mergedList.next;
         }
     }
 }
