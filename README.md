@@ -30,3 +30,4 @@
 * [Find Pivot Index](src/main/java/Easy/FindPivotIndex.java)
 * [Isomorphic Strings](src/main/java/Easy/IsomorphicStrings.java)
 * [Is Subsequence](src/main/java/Easy/IsSubsequence.java)
+* [Reverse Linked List](src/main/java/Easy/ReverseLinkedList.java)
