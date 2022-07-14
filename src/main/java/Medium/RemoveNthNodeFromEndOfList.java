@@ -12,6 +12,7 @@ public class RemoveNthNodeFromEndOfList {
         ListNode l3 = new ListNode(2, l2);
         ListNode l4 = new ListNode(1, l3);
         System.out.println(solution.removeNthFromEnd(l4, 2));
+
     }
 
     static class Solution {
