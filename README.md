@@ -32,3 +32,4 @@
 * [Isomorphic Strings](src/main/java/Easy/IsomorphicStrings.java)
 * [Is Subsequence](src/main/java/Easy/IsSubsequence.java)
 * [Reverse Linked List](src/main/java/Easy/ReverseLinkedList.java)
+* [Middle of the Linked List](src/main/java/Easy/MiddleOfTheLinkedList.java)
