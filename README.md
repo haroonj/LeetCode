@@ -1,7 +1,7 @@
 ![logo](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)
-
+#
 ### This is my Repo for saving my journey solving LeetCode problems, to get a job at a FAANG company.
-
+## 🛠 Problems
 ## Hard
 
 * [Median of Two Sorted Arrays](src/main/java/Hard/MedianOfTwoSortedArrays.java)
