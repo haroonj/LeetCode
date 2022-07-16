@@ -1,6 +1,6 @@
 # Leet Code
 
-### This is my Repo for saving my journey solving LeetCode problems.
+### This is my Repo for saving my journey solving LeetCode problems, to get a job at a FAANG company.
 
 ## Hard
 
