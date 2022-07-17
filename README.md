@@ -1,7 +1,11 @@
 ![logo](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)
+
 #
+
 ### This is my Repo for saving my journey solving LeetCode problems, to get a job at a FAANG company.
+
 ## 🛠 Problems
+
 ## Hard
 
 * [Median of Two Sorted Arrays](src/main/java/Hard/MedianOfTwoSortedArrays.java)
@@ -34,3 +38,4 @@
 * [Is Subsequence](src/main/java/Easy/IsSubsequence.java)
 * [Reverse Linked List](src/main/java/Easy/ReverseLinkedList.java)
 * [Middle of the Linked List](src/main/java/Easy/MiddleOfTheLinkedList.java)
+* [Best Time to Buy and Sell Stock](src/main/java/Easy/BestTimeToBuyAndSellStock.java)
