@@ -6,13 +6,13 @@
 
 ## 🛠 Problems
 
-## Hard
+## ☠ Hard
 
 * [Median of Two Sorted Arrays](src/main/java/Hard/MedianOfTwoSortedArrays.java)
 * [Merge k Sorted Lists](src/main/java/Hard/MergeKSortedLists.java)
 * [Longest Valid Parentheses](src/main/java/Hard/LongestValidParentheses.java)
 
-## Medium
+## 💪🏻 Medium
 
 * [Add Two Numbers](src/main/java/Medium/AddTwoNumbers.java)
 * [3Sum](src/main/java/Medium/ThreeSum.java)
@@ -21,7 +21,7 @@
 * [Remove Nth Node From End of List](src/main/java/Medium/RemoveNthNodeFromEndOfList.java)
 * [Linked List Cycle II](src/main/java/Medium/LinkedListCycle2.java)
 
-## Easy
+## 👶🏻 Easy
 
 * [Two Sum](src/main/java/Easy/TwoSum.java)
 * [Palindrome Number](src/main/java/Easy/PalindromeNumber.java)
