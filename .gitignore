@@ -48,6 +48,7 @@ cmake-build-*/
 
 # IntelliJ
 out/
+
 # Target
 target/
 
