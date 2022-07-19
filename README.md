@@ -11,6 +11,7 @@
 * [Median of Two Sorted Arrays](src/main/java/Hard/MedianOfTwoSortedArrays.java)
 * [Merge k Sorted Lists](src/main/java/Hard/MergeKSortedLists.java)
 * [Longest Valid Parentheses](src/main/java/Hard/LongestValidParentheses.java)
+* [Trapping Rain Water](src/main/java/Hard/TrappingRainWater.java)
 
 ## 💪🏻 Medium
 
