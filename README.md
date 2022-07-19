@@ -21,6 +21,7 @@
 * [Remove Nth Node From End of List](src/main/java/Medium/RemoveNthNodeFromEndOfList.java)
 * [Linked List Cycle II](src/main/java/Medium/LinkedListCycle2.java)
 * [Permutations](src/main/java/Medium/Permutations.java)
+* [Longest Substring Without Repeating Characters](src/main/java/Medium/LongestSubstringWithoutRepeatingCharacters.java)
 
 ## 👶🏻 Easy
 
