@@ -23,6 +23,7 @@
 * [Linked List Cycle II](src/main/java/Medium/LinkedListCycle2.java)
 * [Permutations](src/main/java/Medium/Permutations.java)
 * [Longest Substring Without Repeating Characters](src/main/java/Medium/LongestSubstringWithoutRepeatingCharacters.java)
+* [Longest Palindromic Substring](src/main/java/Medium/LongestPalindromicSubstring.java)
 
 ## 👶🏻 Easy
 
