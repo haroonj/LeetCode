@@ -12,6 +12,7 @@
 * [Merge k Sorted Lists](src/main/java/Hard/MergeKSortedLists.java)
 * [Longest Valid Parentheses](src/main/java/Hard/LongestValidParentheses.java)
 * [Trapping Rain Water](src/main/java/Hard/TrappingRainWater.java)
+* [Regular Expression Matching](src/main/java/Hard/RegularExpressionMatching.java)
 
 ## 💪🏻 Medium
 
