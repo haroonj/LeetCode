@@ -8,8 +8,12 @@
 [![logo](resources/leetcode.png)](https://leetcode.com/harounj)
 
 ## 🛠 Problems
+
 ### 33 problems solved
+
 * 19 [Easy](#-easy)
+* 9 [Medium](#-medium)
+* 5 [Hard](#-hard)
 
 ## ☠ Hard
 
