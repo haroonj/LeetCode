@@ -57,3 +57,4 @@
 * [Best Time to Buy and Sell Stock](src/main/java/Easy/BestTimeToBuyAndSellStock.java)
 * [Plus One](src/main/java/Easy/PlusOne.java)
 * [Length of Last Word](src/main/java/Easy/LengthOfLastWord.java)
+* [Add Binary](src/main/java/Easy/AddBinary.java)
