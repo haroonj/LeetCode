@@ -9,7 +9,7 @@
 
 ## 🛠 Problems
 ### 33 problems solved
-* 19 [Easy](README.md:34)
+* 19 [Easy](#-easy)
 
 ## ☠ Hard
 
