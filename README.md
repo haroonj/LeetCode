@@ -11,11 +11,11 @@
 
 ## 🛠 Problems
 
-### 33 problems solved
+### 34 problems solved
 
 * 5 [Hard](#-hard)
 * 9 [Medium](#-medium)
-* 19 [Easy](#-easy)
+* 20 [Easy](#-easy)
 
 ## ☠ Hard
 
