@@ -4,6 +4,8 @@
 
 ### This is my Repo for saving my journey solving LeetCode problems, to get a job at a FAANG company.
 
+#
+
 [![logo](resources/linkedin.png)](https://www.linkedin.com/in/haroun-jaradat-940311188/)\
 [![logo](resources/leetcode.png)](https://leetcode.com/harounj)
 
@@ -11,9 +13,9 @@
 
 ### 33 problems solved
 
-* 19 [Easy](#-easy)
-* 9 [Medium](#-medium)
 * 5 [Hard](#-hard)
+* 9 [Medium](#-medium)
+* 19 [Easy](#-easy)
 
 ## ☠ Hard
 
