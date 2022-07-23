@@ -4,7 +4,7 @@ package Easy;
 public class LengthOfLastWord {
     public static void main(String[] args) {
         Solution solution = new Solution();
-        System.out.println(solution.lengthOfLastWord(""));
+        System.out.println(solution.lengthOfLastWord("play GTA5"));
     }
 
     static class Solution {
