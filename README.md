@@ -1,9 +1,12 @@
-![logo](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)
+[![logo](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)](https://leetcode.com/harounj)
 
 #
 
 ### This is my Repo for saving my journey solving LeetCode problems, to get a job at a FAANG company.
-[LinkedIn](https://www.linkedin.com/in/haroun-jaradat-940311188/), [LeetCode](https://leetcode.com/harounj)
+
+[LinkedIn](https://www.linkedin.com/in/haroun-jaradat-940311188/)\
+[![logo](resources/leetcode.png)](https://leetcode.com/harounj)
+
 ## 🛠 Problems
 
 ## ☠ Hard
