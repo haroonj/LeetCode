@@ -8,6 +8,8 @@
 [![logo](resources/leetcode.png)](https://leetcode.com/harounj)
 
 ## 🛠 Problems
+### 33 problems solved
+* 19 [Easy](README.md:34)
 
 ## ☠ Hard
 
