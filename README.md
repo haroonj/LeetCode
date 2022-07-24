@@ -4,11 +4,6 @@
 
 ### This is my Repo for saving my journey solving LeetCode problems, to get a job at a FAANG company.
 
-#
-
-[![logo](resources/linkedin.png)](https://www.linkedin.com/in/haroun-jaradat-940311188/)\
-[![logo](resources/leetcode.png)](https://leetcode.com/harounj)
-
 ## 🛠 Problems
 
 ### 34 problems solved
@@ -58,7 +53,5 @@
 * [Plus One](src/main/java/Easy/PlusOne.java)
 * [Length of Last Word](src/main/java/Easy/LengthOfLastWord.java)
 * [Add Binary](src/main/java/Easy/AddBinary.java)
-
-
 
 ### [Related Repository](https://github.com/haroonj/Data-Structures-and-Algorithms)
