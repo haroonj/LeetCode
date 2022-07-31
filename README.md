@@ -6,11 +6,11 @@
 
 ## 🛠 Problems
 
-### 35 problems solved
+### 36 problems solved
 
 * 5 [Hard](#-hard)
 * 10 [Medium](#-medium)
-* 20 [Easy](#-easy)
+* 21 [Easy](#-easy)
 
 ## ☠ Hard
 
@@ -54,5 +54,6 @@
 * [Plus One](src/main/java/Easy/PlusOne.java)
 * [Length of Last Word](src/main/java/Easy/LengthOfLastWord.java)
 * [Add Binary](src/main/java/Easy/AddBinary.java)
+* [Single Number](src/main/java/Easy/SingleNumber.java)
 
 ### [Related Repository](https://github.com/haroonj/Data-Structures-and-Algorithms)
