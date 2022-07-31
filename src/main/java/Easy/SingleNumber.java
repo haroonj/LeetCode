@@ -1,6 +1,6 @@
 package Easy;
 
-import java.util.HashSet;
+//import java.util.HashSet;
 
 //https://leetcode.com/problems/single-number/
 public class SingleNumber {
@@ -11,17 +11,24 @@ public class SingleNumber {
 
     static class Solution {
         public int singleNumber(int[] nums) {
-            int num =0;
+/*            int num = 0;
             HashSet<Integer> integers = new HashSet<>();
-            for(Integer i : nums){
-                if(integers.contains(i)){
-                    num-=i;
-                }else {
+            for (Integer i : nums) {
+                if (integers.contains(i)) {
+                    num -= i;
+                } else {
                     integers.add(i);
-                    num+=i;
+                    num += i;
                 }
             }
             return num;
+
+ */
+            int result = 0;
+            for (int curr : nums) {
+                result = result ^ curr;
+            }
+            return result;
         }
     }
 }
