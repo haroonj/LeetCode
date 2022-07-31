@@ -1,5 +1,7 @@
 package Easy;
 
+import java.util.HashSet;
+
 //https://leetcode.com/problems/single-number/
 public class SingleNumber {
     public static void main(String[] args) {
@@ -9,7 +11,17 @@ public class SingleNumber {
 
     static class Solution {
         public int singleNumber(int[] nums) {
-            return 0;
+            int num =0;
+            HashSet<Integer> integers = new HashSet<>();
+            for(Integer i : nums){
+                if(integers.contains(i)){
+                    num-=i;
+                }else {
+                    integers.add(i);
+                    num+=i;
+                }
+            }
+            return num;
         }
     }
 }
