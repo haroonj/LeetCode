@@ -6,10 +6,10 @@
 
 ## 🛠 Problems
 
-### 36 problems solved
+### 37 problems solved
 
 * 5 [Hard](#-hard)
-* 10 [Medium](#-medium)
+* 11 [Medium](#-medium)
 * 21 [Easy](#-easy)
 
 ## ☠ Hard
@@ -32,6 +32,7 @@
 * [Longest Substring Without Repeating Characters](src/main/java/Medium/LongestSubstringWithoutRepeatingCharacters.java)
 * [Longest Palindromic Substring](src/main/java/Medium/LongestPalindromicSubstring.java)
 * [Letter Combinations of a Phone Number](src/main/java/Medium/LetterCombinationsOfAPhoneNumber.java)
+* [Unique Paths](src/main/java/Medium/UniquePaths.java)
 
 ## 👶🏻 Easy
 
