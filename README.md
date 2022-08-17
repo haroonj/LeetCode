@@ -2,7 +2,7 @@
 
 #
 
-### This is my Repo for saving my journey solving LeetCode problems, to get a job at a FAANG company.
+### This is my Repo for saving my journey solving LeetCode problems.
 
 ## 🛠 Problems
 
