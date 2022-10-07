@@ -6,11 +6,11 @@
 
 ## 🛠 Problems
 
-### 37 problems solved
+### 38 problems solved
 
 * 5 [Hard](#-hard)
 * 11 [Medium](#-medium)
-* 21 [Easy](#-easy)
+* 22 [Easy](#-easy)
 
 ## ☠ Hard
 
@@ -56,5 +56,6 @@
 * [Length of Last Word](src/main/java/Easy/LengthOfLastWord.java)
 * [Add Binary](src/main/java/Easy/AddBinary.java)
 * [Single Number](src/main/java/Easy/SingleNumber.java)
+* [Remove Duplicates from Sorted List](src/main/java/Easy/RemoveDuplicatesFromSortedList.java)
 
 ### [Related Repository](https://github.com/haroonj/Data-Structures-and-Algorithms)
