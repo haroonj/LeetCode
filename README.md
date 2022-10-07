@@ -57,5 +57,6 @@
 * [Add Binary](src/main/java/Easy/AddBinary.java)
 * [Single Number](src/main/java/Easy/SingleNumber.java)
 * [Remove Duplicates from Sorted List](src/main/java/Easy/RemoveDuplicatesFromSortedList.java)
+* [Linked List Cycle](src/main/java/Easy/LinkedListCycle.java)
 
 ### [Related Repository](https://github.com/haroonj/Data-Structures-and-Algorithms)
