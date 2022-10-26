@@ -6,11 +6,11 @@
 
 ## 🛠 Problems
 
-### 39 problems solved
+### 40 problems solved
 
 * 5 [Hard](#-hard)
 * 11 [Medium](#-medium)
-* 23 [Easy](#-easy)
+* 24 [Easy](#-easy)
 
 ## ☠ Hard
 
@@ -58,5 +58,6 @@
 * [Single Number](src/main/java/Easy/SingleNumber.java)
 * [Remove Duplicates from Sorted List](src/main/java/Easy/RemoveDuplicatesFromSortedList.java)
 * [Linked List Cycle](src/main/java/Easy/LinkedListCycle.java)
+* [Longest Palindrome](src/main/java/Easy/LongestPalindrome.java)
 
 ### [Related Repository](https://github.com/haroonj/Data-Structures-and-Algorithms)

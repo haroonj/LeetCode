@@ -1,7 +1,7 @@
 package Easy;
 
 import java.util.HashSet;
-
+//https://leetcode.com/problems/longest-palindrome/
 public class LongestPalindrome {
     public static void main(String[] args) {
         Solution solution = new Solution();
