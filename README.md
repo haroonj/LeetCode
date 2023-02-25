@@ -6,10 +6,10 @@
 
 ## 🛠 Problems
 
-### 41 problems solved
+### 42 problems solved
 
 * 5 [Hard](#-hard)
-* 12 [Medium](#-medium)
+* 13 [Medium](#-medium)
 * 24 [Easy](#-easy)
 
 ## ☠ Hard
@@ -34,6 +34,7 @@
 * [Letter Combinations of a Phone Number](src/main/java/Medium/LetterCombinationsOfAPhoneNumber.java)
 * [Unique Paths](src/main/java/Medium/UniquePaths.java)
 * [Arithmetic Slices](src/main/java/Medium/ArithmeticSlices.java)
+* [Swap Nodes in Pairs](src/main/java/Medium/SwapNodesInPairs.java)
 
 ## 👶🏻 Easy
 
