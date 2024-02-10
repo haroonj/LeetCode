@@ -61,5 +61,6 @@
 * [Remove Duplicates from Sorted List](src/main/java/Easy/RemoveDuplicatesFromSortedList.java)
 * [Linked List Cycle](src/main/java/Easy/LinkedListCycle.java)
 * [Longest Palindrome](src/main/java/Easy/LongestPalindrome.java)
+* Merge Sorted Array [(java)](src/main/java/Easy/MergeSortedArray.java) [(python)](src/main/python/easy/MergeSortedArray.py)
 
 ### [Related Repository](https://github.com/haroonj/Data-Structures-and-Algorithms)
