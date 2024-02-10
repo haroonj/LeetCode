@@ -6,11 +6,11 @@
 
 ## 🛠 Problems
 
-### 43 problems solved
+### 44 problems solved
 
 * 5 [Hard](#-hard)
 * 13 [Medium](#-medium)
-* 25 [Easy](#-easy)
+* 26 [Easy](#-easy)
 
 ## ☠ Hard
 
@@ -62,5 +62,6 @@
 * [Linked List Cycle](src/main/java/Easy/LinkedListCycle.java)
 * [Longest Palindrome](src/main/java/Easy/LongestPalindrome.java)
 * Merge Sorted Array [(java)](src/main/java/Easy/MergeSortedArray.java) [(python)](src/main/python/easy/MergeSortedArray.py)
+* Ransom Note [(java)](src/main/java/Easy/RansomNote.java) [(python)](src/main/python/easy/RansomNote.py)
 
 ### [Related Repository](https://github.com/haroonj/Data-Structures-and-Algorithms)
