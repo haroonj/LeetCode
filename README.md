@@ -63,5 +63,6 @@
 * [Longest Palindrome](src/main/java/Easy/LongestPalindrome.java)
 * Merge Sorted Array [(java)](src/main/java/Easy/MergeSortedArray.java) [(python)](src/main/python/easy/MergeSortedArray.py)
 * Ransom Note [(java)](src/main/java/Easy/RansomNote.java) [(python)](src/main/python/easy/RansomNote.py)
+* Majority Element [(java)](src/main/java/Easy/MajorityElement.java) [(python)](src/main/python/easy/MajorityElement.py)
 
 ### [Related Repository](https://github.com/haroonj/Data-Structures-and-Algorithms)
