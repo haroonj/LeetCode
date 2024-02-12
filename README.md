@@ -6,11 +6,11 @@
 
 ## 🛠 Problems
 
-### 45 problems solved
+### 46 problems solved
 
 * 5 [hard](#-hard)
 * 13 [medium](#-medium)
-* 27 [easy](#-easy)
+* 28 [easy](#-easy)
 
 ## ☠ hard
 
@@ -64,5 +64,6 @@
 * Merge Sorted Array [(java)](src/main/java/easy/MergeSortedArray.java) [(python)](src/main/python/easy/MergeSortedArray.py)
 * Ransom Note [(java)](src/main/java/easy/RansomNote.java) [(python)](src/main/python/easy/RansomNote.py)
 * Majority Element [(java)](src/main/java/easy/MajorityElement.java) [(python)](src/main/python/easy/MajorityElement.py)
+* Valid Palindrome [(java)](src/main/java/easy/ValidPalindrome.java) [(python)](src/main/python/easy/ValidPalindrome.py)
 
 ### [Related Repository](https://github.com/haroonj/Data-Structures-and-Algorithms)
